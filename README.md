@@ -23,7 +23,7 @@ This project automates the extraction of data from patient assessment forms usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OCR_Assessment.git
+   git clone https://github.com/NithishChandraAnasuri/OCR_Assessment.git
    cd OCR_Assessment
    ```
 
@@ -65,14 +65,4 @@ This project automates the extraction of data from patient assessment forms usin
 
 The script will output the extracted JSON data and confirm that it has been stored in the database.
 
-## License
 
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-- Tesseract OCR for text recognition.
-- PostgreSQL for database management.
-```
-
-You can copy this content into a `README.md` file in your GitHub repository to provide clear instructions and information about your project.
