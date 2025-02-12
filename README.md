@@ -36,7 +36,6 @@ This project automates the extraction of data from patient assessment forms usin
    ```sql
    CREATE DATABASE intern_db;
 
-   \c intern_db;
 
    CREATE TABLE patients (
        id SERIAL PRIMARY KEY,
